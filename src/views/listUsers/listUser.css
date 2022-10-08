@@ -1,0 +1,28 @@
+h1
+{
+    color: white;
+}
+
+.title {
+   color: white;
+   font-size: large;
+}
+
+button{
+    height: 2rem;
+    color: rgb(29, 29, 75);
+    width: 5rem;
+}
+
+.user{
+    width: 50%;
+}
+
+.userList{
+    display: flex;
+}
+
+img{
+    height: 128px;
+    width: 128px;
+}
